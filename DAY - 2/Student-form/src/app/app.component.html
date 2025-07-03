@@ -1,0 +1,36 @@
+<div class="form-container">
+  <h2>Hello students, fill the details</h2>
+
+  <!-- ✅ Show message if any field is empty -->
+  <p class="warning" *ngIf="!student.name || !student.enrollmentNo || !student.stream">
+    All three fields are compulsory.
+  </p>
+
+  <form (ngSubmit)="onSubmit()" #studentForm="ngForm">
+    <div class="form-group">
+      <label for="name">Name:</label>
+      <input id="name" type="text" name="name" [(ngModel)]="student.name" required />
+    </div>
+
+    <div class="form-group">
+      <label for="enrollmentNo">Enrollment No:</label>
+      <input id="enrollmentNo" type="text" name="enrollmentNo" [(ngModel)]="student.enrollmentNo" required />
+    </div>
+
+    <div class="form-group">
+      <label for="stream">Engineering Stream:</label>
+      <input id="stream" type="text" name="stream" [(ngModel)]="student.stream" required />
+    </div>
+
+    <button type="submit" [disabled]="!studentForm.form.valid">Submit</button>
+  </form>
+
+  <div *ngIf="students.length > 0" class="student-list">
+    <h3>Submitted Students:</h3>
+    <ul>
+      <li *ngFor="let s of students">
+        {{ s.name }} – {{ s.enrollmentNo }} – {{ s.stream }}
+      </li>
+    </ul>
+  </div>
+</div>
