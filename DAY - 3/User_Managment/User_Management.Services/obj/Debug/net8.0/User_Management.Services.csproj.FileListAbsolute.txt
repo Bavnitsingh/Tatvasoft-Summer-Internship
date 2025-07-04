@@ -1,0 +1,17 @@
+D:\Projects\Practice\User_Managment\User_Management.Services\bin\Debug\net8.0\User_Management.Services.deps.json
+D:\Projects\Practice\User_Managment\User_Management.Services\bin\Debug\net8.0\User_Management.Services.runtimeconfig.json
+D:\Projects\Practice\User_Managment\User_Management.Services\bin\Debug\net8.0\User_Management.Services.dll
+D:\Projects\Practice\User_Managment\User_Management.Services\bin\Debug\net8.0\User_Management.Services.pdb
+D:\Projects\Practice\User_Managment\User_Management.Services\bin\Debug\net8.0\User_Management.DataAccess.dll
+D:\Projects\Practice\User_Managment\User_Management.Services\bin\Debug\net8.0\User_Management.DataAccess.pdb
+D:\Projects\Practice\User_Managment\User_Management.Services\obj\Debug\net8.0\User_Management.Services.csproj.AssemblyReference.cache
+D:\Projects\Practice\User_Managment\User_Management.Services\obj\Debug\net8.0\User_Management.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Practice\User_Managment\User_Management.Services\obj\Debug\net8.0\User_Management.Services.AssemblyInfoInputs.cache
+D:\Projects\Practice\User_Managment\User_Management.Services\obj\Debug\net8.0\User_Management.Services.AssemblyInfo.cs
+D:\Projects\Practice\User_Managment\User_Management.Services\obj\Debug\net8.0\User_Management.Services.csproj.CoreCompileInputs.cache
+D:\Projects\Practice\User_Managment\User_Management.Services\obj\Debug\net8.0\User_Man.69AB7B76.Up2Date
+D:\Projects\Practice\User_Managment\User_Management.Services\obj\Debug\net8.0\User_Management.Services.dll
+D:\Projects\Practice\User_Managment\User_Management.Services\obj\Debug\net8.0\refint\User_Management.Services.dll
+D:\Projects\Practice\User_Managment\User_Management.Services\obj\Debug\net8.0\User_Management.Services.pdb
+D:\Projects\Practice\User_Managment\User_Management.Services\obj\Debug\net8.0\User_Management.Services.genruntimeconfig.cache
+D:\Projects\Practice\User_Managment\User_Management.Services\obj\Debug\net8.0\ref\User_Management.Services.dll

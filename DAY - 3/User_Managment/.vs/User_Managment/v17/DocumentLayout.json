@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Practice\\User_Managment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE6642-324C-4849-8919-A2CEB8CEE6BF}|User_Managment\\User_Managment.csproj|d:\\projects\\practice\\user_managment\\user_managment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AE6642-324C-4849-8919-A2CEB8CEE6BF}|User_Managment\\User_Managment.csproj|solutionrelative:user_managment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE6642-324C-4849-8919-A2CEB8CEE6BF}|User_Managment\\User_Managment.csproj|d:\\projects\\practice\\user_managment\\user_managment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29AE6642-324C-4849-8919-A2CEB8CEE6BF}|User_Managment\\User_Managment.csproj|solutionrelative:user_managment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|d:\\projects\\practice\\user_managment\\user_management.dataaccess\\migrations\\usermanagementdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|solutionrelative:user_management.dataaccess\\migrations\\usermanagementdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|d:\\projects\\practice\\user_managment\\user_management.dataaccess\\migrations\\20250704055641_user table \u0026 intial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|solutionrelative:user_management.dataaccess\\migrations\\20250704055641_user table \u0026 intial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|d:\\projects\\practice\\user_managment\\user_management.dataaccess\\migrations\\20250703053104_user table create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|solutionrelative:user_management.dataaccess\\migrations\\20250703053104_user table create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|d:\\projects\\practice\\user_managment\\user_management.dataaccess\\usermanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|solutionrelative:user_management.dataaccess\\usermanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE147E7D-7C78-4541-8CF3-1DEAE5C4A66C}|User_Management.Services\\User_Management.Services.csproj|d:\\projects\\practice\\user_managment\\user_management.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE147E7D-7C78-4541-8CF3-1DEAE5C4A66C}|User_Management.Services\\User_Management.Services.csproj|solutionrelative:user_management.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|d:\\projects\\practice\\user_managment\\user_management.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|solutionrelative:user_management.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE6642-324C-4849-8919-A2CEB8CEE6BF}|User_Managment\\User_Managment.csproj|d:\\projects\\practice\\user_managment\\user_managment\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AE6642-324C-4849-8919-A2CEB8CEE6BF}|User_Managment\\User_Managment.csproj|solutionrelative:user_managment\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE6642-324C-4849-8919-A2CEB8CEE6BF}|User_Managment\\User_Managment.csproj|d:\\projects\\practice\\user_managment\\user_managment\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AE6642-324C-4849-8919-A2CEB8CEE6BF}|User_Managment\\User_Managment.csproj|solutionrelative:user_managment\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE147E7D-7C78-4541-8CF3-1DEAE5C4A66C}|User_Management.Services\\User_Management.Services.csproj|d:\\projects\\practice\\user_managment\\user_management.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE147E7D-7C78-4541-8CF3-1DEAE5C4A66C}|User_Management.Services\\User_Management.Services.csproj|solutionrelative:user_management.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 41,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManagementDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice\\User_Managment\\User_Management.DataAccess\\Migrations\\UserManagementDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "User_Management.DataAccess\\Migrations\\UserManagementDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Projects\\Practice\\User_Managment\\User_Management.DataAccess\\Migrations\\UserManagementDbContextModelSnapshot.cs",
+              "RelativeToolTip": "User_Management.DataAccess\\Migrations\\UserManagementDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:28:53.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250703053104_user table create.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice\\User_Managment\\User_Management.DataAccess\\Migrations\\20250703053104_user table create.cs",
+              "RelativeDocumentMoniker": "User_Management.DataAccess\\Migrations\\20250703053104_user table create.cs",
+              "ToolTip": "D:\\Projects\\Practice\\User_Managment\\User_Management.DataAccess\\Migrations\\20250703053104_user table create.cs",
+              "RelativeToolTip": "User_Management.DataAccess\\Migrations\\20250703053104_user table create.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:28:47.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice\\User_Managment\\User_Managment\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "User_Managment\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\Projects\\Practice\\User_Managment\\User_Managment\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "User_Managment\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:06:44.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250704055641_user table \u0026 intial migration.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice\\User_Managment\\User_Management.DataAccess\\Migrations\\20250704055641_user table \u0026 intial migration.cs",
+              "RelativeDocumentMoniker": "User_Management.DataAccess\\Migrations\\20250704055641_user table \u0026 intial migration.cs",
+              "ToolTip": "D:\\Projects\\Practice\\User_Managment\\User_Management.DataAccess\\Migrations\\20250704055641_user table \u0026 intial migration.cs",
+              "RelativeToolTip": "User_Management.DataAccess\\Migrations\\20250704055641_user table \u0026 intial migration.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:56:41.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserManagementDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice\\User_Managment\\User_Management.DataAccess\\UserManagementDbContext.cs",
+              "RelativeDocumentMoniker": "User_Management.DataAccess\\UserManagementDbContext.cs",
+              "ToolTip": "D:\\Projects\\Practice\\User_Managment\\User_Management.DataAccess\\UserManagementDbContext.cs",
+              "RelativeToolTip": "User_Management.DataAccess\\UserManagementDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:49:15.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice\\User_Managment\\User_Management.Services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "User_Management.Services\\Services\\UserService.cs",
+              "ToolTip": "D:\\Projects\\Practice\\User_Managment\\User_Management.Services\\Services\\UserService.cs*",
+              "RelativeToolTip": "User_Management.Services\\Services\\UserService.cs*",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwGEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:37:41.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice\\User_Managment\\User_Management.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "User_Management.DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Projects\\Practice\\User_Managment\\User_Management.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "User_Management.DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAvwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:37:33.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice\\User_Managment\\User_Managment\\Program.cs",
+              "RelativeDocumentMoniker": "User_Managment\\Program.cs",
+              "ToolTip": "D:\\Projects\\Practice\\User_Managment\\User_Managment\\Program.cs",
+              "RelativeToolTip": "User_Managment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:04:41.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice\\User_Managment\\User_Managment\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "User_Managment\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Projects\\Practice\\User_Managment\\User_Managment\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "User_Managment\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAUwCUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T04:55:28.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Practice\\User_Managment\\User_Managment\\appsettings.json",
+              "RelativeDocumentMoniker": "User_Managment\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Practice\\User_Managment\\User_Managment\\appsettings.json",
+              "RelativeToolTip": "User_Managment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T04:51:08.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice\\User_Managment\\User_Management.Services\\Class1.cs",
+              "RelativeDocumentMoniker": "User_Management.Services\\Class1.cs",
+              "ToolTip": "D:\\Projects\\Practice\\User_Managment\\User_Management.Services\\Class1.cs",
+              "RelativeToolTip": "User_Management.Services\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T04:33:13.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

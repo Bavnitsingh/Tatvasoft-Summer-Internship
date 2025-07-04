@@ -1,0 +1,12 @@
+D:\Projects\Practice\User_Managment\User_Management.DataAccess\bin\Debug\net8.0\User_Management.DataAccess.deps.json
+D:\Projects\Practice\User_Managment\User_Management.DataAccess\bin\Debug\net8.0\User_Management.DataAccess.dll
+D:\Projects\Practice\User_Managment\User_Management.DataAccess\bin\Debug\net8.0\User_Management.DataAccess.pdb
+D:\Projects\Practice\User_Managment\User_Management.DataAccess\obj\Debug\net8.0\User_Management.DataAccess.csproj.AssemblyReference.cache
+D:\Projects\Practice\User_Managment\User_Management.DataAccess\obj\Debug\net8.0\User_Management.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Practice\User_Managment\User_Management.DataAccess\obj\Debug\net8.0\User_Management.DataAccess.AssemblyInfoInputs.cache
+D:\Projects\Practice\User_Managment\User_Management.DataAccess\obj\Debug\net8.0\User_Management.DataAccess.AssemblyInfo.cs
+D:\Projects\Practice\User_Managment\User_Management.DataAccess\obj\Debug\net8.0\User_Management.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\Practice\User_Managment\User_Management.DataAccess\obj\Debug\net8.0\User_Management.DataAccess.dll
+D:\Projects\Practice\User_Managment\User_Management.DataAccess\obj\Debug\net8.0\refint\User_Management.DataAccess.dll
+D:\Projects\Practice\User_Managment\User_Management.DataAccess\obj\Debug\net8.0\User_Management.DataAccess.pdb
+D:\Projects\Practice\User_Managment\User_Management.DataAccess\obj\Debug\net8.0\ref\User_Management.DataAccess.dll
