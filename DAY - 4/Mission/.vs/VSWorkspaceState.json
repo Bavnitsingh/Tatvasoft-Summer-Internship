@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Mission.Api",
+    "\\Mission.Api\\Controllers",
+    "\\Mission.Api\\Properties",
+    "\\Mission.Entities",
+    "\\Mission.Repositories",
+    "\\Mission.Services",
+    "\\Mission.Services\\Helpers",
+    "\\Mission.Services\\Services"
+  ],
+  "SelectedNode": "\\Mission.sln",
+  "PreviewInSolutionExplorer": false
+}

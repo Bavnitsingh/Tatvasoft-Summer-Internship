@@ -1,0 +1,38 @@
+D:\Session Internship\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.deps.json
+D:\Session Internship\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.runtimeconfig.json
+D:\Session Internship\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.dll
+D:\Session Internship\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.pdb
+D:\Session Internship\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.dll
+D:\Session Internship\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.dll
+D:\Session Internship\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.pdb
+D:\Session Internship\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\Session Internship\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.AssemblyReference.cache
+D:\Session Internship\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Session Internship\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfoInputs.cache
+D:\Session Internship\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfo.cs
+D:\Session Internship\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.CoreCompileInputs.cache
+D:\Session Internship\Mission\Mission.Services\obj\Debug\net8.0\Mission..F9A2C6AE.Up2Date
+D:\Session Internship\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.dll
+D:\Session Internship\Mission\Mission.Services\obj\Debug\net8.0\refint\Mission.Services.dll
+D:\Session Internship\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.pdb
+D:\Session Internship\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.genruntimeconfig.cache
+D:\Session Internship\Mission\Mission.Services\obj\Debug\net8.0\ref\Mission.Services.dll
+C:\Users\CHHABDA BAVNIT SINGH\Downloads\Mission\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.deps.json
+C:\Users\CHHABDA BAVNIT SINGH\Downloads\Mission\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.runtimeconfig.json
+C:\Users\CHHABDA BAVNIT SINGH\Downloads\Mission\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.dll
+C:\Users\CHHABDA BAVNIT SINGH\Downloads\Mission\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.pdb
+C:\Users\CHHABDA BAVNIT SINGH\Downloads\Mission\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\CHHABDA BAVNIT SINGH\Downloads\Mission\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.dll
+C:\Users\CHHABDA BAVNIT SINGH\Downloads\Mission\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\CHHABDA BAVNIT SINGH\Downloads\Mission\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\CHHABDA BAVNIT SINGH\Downloads\Mission\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.AssemblyReference.cache
+C:\Users\CHHABDA BAVNIT SINGH\Downloads\Mission\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHHABDA BAVNIT SINGH\Downloads\Mission\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfoInputs.cache
+C:\Users\CHHABDA BAVNIT SINGH\Downloads\Mission\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfo.cs
+C:\Users\CHHABDA BAVNIT SINGH\Downloads\Mission\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.CoreCompileInputs.cache
+C:\Users\CHHABDA BAVNIT SINGH\Downloads\Mission\Mission\Mission.Services\obj\Debug\net8.0\Mission..F9A2C6AE.Up2Date
+C:\Users\CHHABDA BAVNIT SINGH\Downloads\Mission\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.dll
+C:\Users\CHHABDA BAVNIT SINGH\Downloads\Mission\Mission\Mission.Services\obj\Debug\net8.0\refint\Mission.Services.dll
+C:\Users\CHHABDA BAVNIT SINGH\Downloads\Mission\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.pdb
+C:\Users\CHHABDA BAVNIT SINGH\Downloads\Mission\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.genruntimeconfig.cache
+C:\Users\CHHABDA BAVNIT SINGH\Downloads\Mission\Mission\Mission.Services\obj\Debug\net8.0\ref\Mission.Services.dll
