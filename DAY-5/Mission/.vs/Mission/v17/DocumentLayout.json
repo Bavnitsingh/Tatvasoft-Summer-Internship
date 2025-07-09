@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F40A48F-84F2-4226-B9C6-B4D4E8E45CF0}|Mission.Api\\Mission.Api.csproj|c:\\users\\rajkumar prajapati\\onedrive\\desktop\\summer_internship\\day_5\\mission\\mission.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F40A48F-84F2-4226-B9C6-B4D4E8E45CF0}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C7377-1683-4EFA-94AE-954BB42BF7A2}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\rajkumar prajapati\\onedrive\\desktop\\summer_internship\\day_5\\mission\\mission.entities\\migrations\\20250708154056_addusertablefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C7377-1683-4EFA-94AE-954BB42BF7A2}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\migrations\\20250708154056_addusertablefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F40A48F-84F2-4226-B9C6-B4D4E8E45CF0}|Mission.Api\\Mission.Api.csproj|c:\\users\\rajkumar prajapati\\onedrive\\desktop\\summer_internship\\day_5\\mission\\mission.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F40A48F-84F2-4226-B9C6-B4D4E8E45CF0}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F40A48F-84F2-4226-B9C6-B4D4E8E45CF0}|Mission.Api\\Mission.Api.csproj|c:\\users\\rajkumar prajapati\\onedrive\\desktop\\summer_internship\\day_5\\mission\\mission.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F40A48F-84F2-4226-B9C6-B4D4E8E45CF0}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC38F70-4C20-48C5-8F21-2930C3F1A8A6}|Mission.Services\\Mission.Services.csproj|c:\\users\\rajkumar prajapati\\onedrive\\desktop\\summer_internship\\day_5\\mission\\mission.services\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC38F70-4C20-48C5-8F21-2930C3F1A8A6}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA7E380-DB54-40B8-9448-ECD29D199E0A}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\rajkumar prajapati\\onedrive\\desktop\\summer_internship\\day_5\\mission\\mission.repositories\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA7E380-DB54-40B8-9448-ECD29D199E0A}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC38F70-4C20-48C5-8F21-2930C3F1A8A6}|Mission.Services\\Mission.Services.csproj|c:\\users\\rajkumar prajapati\\onedrive\\desktop\\summer_internship\\day_5\\mission\\mission.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC38F70-4C20-48C5-8F21-2930C3F1A8A6}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA7E380-DB54-40B8-9448-ECD29D199E0A}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\rajkumar prajapati\\onedrive\\desktop\\summer_internship\\day_5\\mission\\mission.repositories\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA7E380-DB54-40B8-9448-ECD29D199E0A}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA7E380-DB54-40B8-9448-ECD29D199E0A}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\rajkumar prajapati\\onedrive\\desktop\\summer_internship\\day_5\\mission\\mission.repositories\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA7E380-DB54-40B8-9448-ECD29D199E0A}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250708154056_AddUserTableFix.cs",
+              "DocumentMoniker": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Entities\\Migrations\\20250708154056_AddUserTableFix.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\20250708154056_AddUserTableFix.cs",
+              "ToolTip": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Entities\\Migrations\\20250708154056_AddUserTableFix.cs",
+              "RelativeToolTip": "Mission.Entities\\Migrations\\20250708154056_AddUserTableFix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:40:56.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Mission.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Api\\appsettings.json",
+              "RelativeToolTip": "Mission.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T15:29:05.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Services\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\IServices\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Services\\IServices\\IUserService.cs",
+              "RelativeToolTip": "Mission.Services\\IServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:45:56.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Services\\Services\\UserService.cs",
+              "RelativeToolTip": "Mission.Services\\Services\\UserService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:44:58.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Repositories\\IRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\IRepositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Repositories\\IRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\IRepositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:44:38.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Repositories\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Repositories\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:44:15.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:44:11.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Mission.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Mission.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:42:50.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Mission.Api\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Mission.Api\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:55:47.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
