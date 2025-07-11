@@ -1,0 +1,23 @@
+.container-fluid {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.container-fluid .content {
+  width: 100%;
+  margin-left: 300px;
+}
+
+.bg-ci-orange {
+  background-color: #f88634;
+}
+
+.edit-icon {
+  max-width: 2.5rem;
+  max-height: 2.5rem;
+}
+
+.cursor-pointer {
+  cursor: pointer !important;
+}

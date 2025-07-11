@@ -3237,23 +3237,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rajkumar Prajapati\\.nuget\\packages\\": {},
+    "C:\\Users\\CHHABDA BAVNIT SINGH\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Entities\\Mission.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\CHHABDA BAVNIT SINGH\\OneDrive\\Documents\\Tatvasoft Internship\\DAY-5\\Mission\\Mission.Entities\\Mission.Entities.csproj",
       "projectName": "Mission.Entities",
-      "projectPath": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Entities\\Mission.Entities.csproj",
-      "packagesPath": "C:\\Users\\Rajkumar Prajapati\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rajkumar Prajapati\\OneDrive\\Desktop\\Summer_Internship\\Day_5\\Mission\\Mission.Entities\\obj\\",
+      "projectPath": "C:\\Users\\CHHABDA BAVNIT SINGH\\OneDrive\\Documents\\Tatvasoft Internship\\DAY-5\\Mission\\Mission.Entities\\Mission.Entities.csproj",
+      "packagesPath": "C:\\Users\\CHHABDA BAVNIT SINGH\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CHHABDA BAVNIT SINGH\\OneDrive\\Documents\\Tatvasoft Internship\\DAY-5\\Mission\\Mission.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Rajkumar Prajapati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\CHHABDA BAVNIT SINGH\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3262,7 +3262,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "net8.0": {
@@ -3329,7 +3329,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

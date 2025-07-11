@@ -1,0 +1,43 @@
+<div class="container-fluid">
+  <app-sidebar></app-sidebar>
+   <div class="content">
+    <app-header></app-header>
+      <div class="info">
+        <div class="card">
+            <div class="card-header">
+              {{ this.themeId ? 'Update': 'Add' }}
+            </div>
+            <div class="card-body">
+              <form [formGroup]="missionThemeForm">
+                <div class="row" style="padding: 3px 10px 3px 10px;">
+                  <input type="hidden" formControlName="id">
+                  <div class="form-group">
+                    <label class="col-form-label">Theme Name</label>
+                    <input type="text" formControlName="themeName" class="form-control" [class.error]="missionThemeForm.controls['themeName'].dirty && missionThemeForm.hasError('required','themeName')">
+                    <span class="text-danger" *ngIf="missionThemeForm.controls['themeName'].dirty && missionThemeForm.hasError('required','themeName')">
+                      ThemeName is required
+                    </span>
+                  </div>
+                  <div class="form-group">
+                    <label class="col-form-label">Status</label>
+                    <select class="form-select"formControlName="status" [class.error]="missionThemeForm.controls['status'].dirty && missionThemeForm.hasError('required','status')">
+                      <option value="active">Active</option>
+                      <option value="inactive">InActive</option>
+                    </select>
+                    <div class="text-danger" *ngIf="missionThemeForm.controls['status'].dirty && missionThemeForm.hasError('required','status')">
+                      Status is required
+                    </div>
+                  </div>
+                </div>
+              </form>
+            </div>
+        </div>
+        <div class="row justify-content-end">
+          <button class="btnCancel" (click)="onCancel()"><span class="cancel">Cancel</span></button>
+          <button class="btnSave" (click)="onSubmit()"><span class="save">Save</span></button>
+        </div>
+       <div>
+       </div>
+     </div>
+   </div>
+ </div>

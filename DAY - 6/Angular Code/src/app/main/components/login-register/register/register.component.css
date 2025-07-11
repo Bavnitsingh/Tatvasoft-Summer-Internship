@@ -1,0 +1,163 @@
+.login {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-size: cover;
+  background-position: center;
+}
+
+.col-form-label {
+  height: 14px;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: left;
+  color: #414141;
+  margin-bottom: 8px;
+}
+
+.form-control {
+  width: 100%;
+  height: auto;
+  padding: 12px 15px;
+  font-size: 16px;
+  font-weight: 400;
+  border-radius: 3px;
+  box-shadow: 0 0 10px 0 rgba(43, 100, 177, 0.12);
+  border: solid 1px #2b64b1;
+  background-color: #fff;
+}
+
+.btn-login {
+  width: 100%;
+  height: 48px;
+  border-radius: 24px;
+  border: solid 2px #f88634;
+  background-color: white;
+  transition: all 0.3s ease;
+}
+
+.btn-login:hover {
+  background-color: #f88634;
+}
+
+.btn-login:hover .Login {
+  color: white;
+}
+
+.Login {
+  font-family: NotoSans, sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  color: #f88634;
+}
+
+.Lost {
+  font-size: 15px;
+  font-weight: 400;
+  text-align: center;
+  color: #414141;
+  cursor: pointer;
+  margin: 0;
+}
+
+.privacy-policy {
+  font-size: 14px;
+  color: #414141;
+  margin-bottom: 0;
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 10%;
+  right: 10%;
+  text-align: left;
+}
+
+.heading {
+  font-family: NotoSans, sans-serif;
+  font-size: 40px;
+  font-weight: normal;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.content {
+  font-family: NotoSans, sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+}
+
+/* Media queries for responsive design */
+@media (max-width: 991.98px) {
+  .heading {
+    font-size: 32px;
+  }
+
+  .content {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .login {
+    padding: 15px;
+  }
+
+  .col-form-label {
+    font-size: 15px;
+  }
+
+  .form-control {
+    font-size: 15px;
+    padding: 10px;
+  }
+
+  .btn-login {
+    height: 44px;
+  }
+
+  .Login {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .col-form-label {
+    font-size: 14px;
+  }
+
+  .form-control {
+    font-size: 14px;
+    padding: 8px;
+  }
+
+  .btn-login {
+    height: 40px;
+  }
+
+  .Login {
+    font-size: 16px;
+  }
+
+  .Lost {
+    font-size: 14px;
+  }
+}
+
+.carousel-caption {
+  position: absolute;
+  width: fit-content;
+  color: #fff;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 10%;
+  right: 10%;
+  text-align: left;
+}

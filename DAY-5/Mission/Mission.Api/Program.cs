@@ -17,13 +17,25 @@ internal class Program
         var builder = WebApplication.CreateBuilder(args);
 
         // Add services to the container.
-        builder.Services.AddDbContext<MissionDbContext>(db => db.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+        builder.Services.AddDbContext<MissionDbContext>(db =>
+            db.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
         builder.Services.AddScoped<ILoginService, LoginService>();
         builder.Services.AddScoped<ILoginRepository, LoginRepository>();
         builder.Services.AddScoped<IUserService, UserService>();
         builder.Services.AddScoped<IUserRepository, UserRepository>();
         builder.Services.AddScoped<JwtHelper>();
+
+        //Add CORS policy
+        builder.Services.AddCors(options =>
+        {
+            options.AddPolicy("AllowAll", policy =>
+            {
+                policy.AllowAnyOrigin()
+                      .AllowAnyMethod()
+                      .AllowAnyHeader();
+            });
+        });
 
         builder.Services.AddControllers();
         builder.Services.AddEndpointsApiExplorer();
@@ -78,8 +90,10 @@ internal class Program
 
         app.UseHttpsRedirection();
 
-        app.UseAuthentication();
+        // Enable CORS middleware
+        app.UseCors("AllowAll");
 
+        app.UseAuthentication();
         app.UseAuthorization();
 
         app.MapControllers();

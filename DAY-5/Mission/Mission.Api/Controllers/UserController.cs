@@ -9,7 +9,6 @@ namespace Mission.Api.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
-        private static readonly ResponseResult result = new();
         private readonly IUserService _userService;
 
         public UserController(IUserService userService)
@@ -20,6 +19,8 @@ namespace Mission.Api.Controllers
         [HttpGet("GetAllUsers")]
         public ResponseResult GetAllUsers()
         {
+            var result = new ResponseResult();
+
             try
             {
                 result.Success = true;
@@ -30,14 +31,18 @@ namespace Mission.Api.Controllers
                 result.Success = false;
                 result.Message = ex.Message;
             }
+
             return result;
         }
 
         [HttpPost("AddUser")]
         public async Task<ResponseResult> AddUser([FromForm] UserRequestModel model)
         {
+            var result = new ResponseResult();
+
             try
             {
+                // Optional: Validate or handle null image in the service layer
                 string message = await _userService.AddUserAsync(model);
                 result.Success = true;
                 result.Message = message;
@@ -47,16 +52,18 @@ namespace Mission.Api.Controllers
                 result.Success = false;
                 result.Message = ex.Message;
             }
+
             return result;
         }
 
         [HttpPost("UpdateUser/{userId}")]
         public async Task<ResponseResult> UpdateUser(int userId, [FromForm] UserRequestModel model)
         {
+            var result = new ResponseResult();
+
             try
             {
                 string message = await _userService.UpdateUserAsync(userId, model);
-
                 result.Success = true;
                 result.Message = message;
             }
@@ -72,6 +79,8 @@ namespace Mission.Api.Controllers
         [HttpDelete("DeleteUser/{userId}")]
         public ResponseResult DeleteUser(int userId)
         {
+            var result = new ResponseResult();
+
             try
             {
                 bool isDeleted = _userService.DeleteUser(userId);
@@ -83,6 +92,7 @@ namespace Mission.Api.Controllers
                 result.Success = false;
                 result.Message = ex.Message;
             }
+
             return result;
         }
     }

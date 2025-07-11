@@ -1,0 +1,78 @@
+<div class="container-fluid">
+  <app-sidebar></app-sidebar>
+  <div class="content">
+    <app-header></app-header>
+    <div class="container mt-5">
+      <div class="row justify-content-center">
+        <div class="col-md-8">
+          <div class="card shadow-sm">
+            <div
+              class="card-header bg-ci-orange text-white d-flex justify-content-between align-items-center"
+            >
+              <h4 class="mb-0">Admin Profile</h4>
+              <button
+                dropdownToggle
+                class="nav-link cursor-pointer"
+                title="Edit Profile"
+                routerLink="../updateProfile/{{ loginDetail.userId }}"
+              >
+                <img
+                  src="assets/Images/user-avatar.png"
+                  class="userImg edit-icon"
+                  alt="No Image"
+                />
+              </button>
+            </div>
+            <div class="card-body">
+              <div class="mb-4 text-center">
+                <img
+                  *ngIf="hasValidProfileImage()"
+                  [src]="getFullImageUrl(loginUserDetails.profileImage)"
+                  alt="Profile Image"
+                  class="img-thumbnail rounded-circle"
+                  style="width: 150px; height: 150px"
+                />
+                <img
+                  *ngIf="!hasValidProfileImage()"
+                  src="assets/Images/default-user.png"
+                  alt="Default Profile"
+                  class="img-thumbnail rounded-circle"
+                  style="width: 150px; height: 150px"
+                />
+              </div>
+
+              <div
+                *ngIf="loginUserDetails && loginUserDetails.emailAddress"
+                class="row mb-3"
+              >
+                <div class="col-sm-4 font-weight-bold">Email Address:</div>
+                <div class="col-sm-8">{{ loginUserDetails.emailAddress }}</div>
+              </div>
+              <div
+                class="row mb-3"
+                *ngIf="loginUserDetails && loginUserDetails.firstName"
+              >
+                <div class="col-sm-4 font-weight-bold">First Name:</div>
+                <div class="col-sm-8">{{ loginUserDetails.firstName }}</div>
+              </div>
+              <div
+                class="row mb-3"
+                *ngIf="loginUserDetails && loginUserDetails.lastName"
+              >
+                <div class="col-sm-4 font-weight-bold">Last Name:</div>
+                <div class="col-sm-8">{{ loginUserDetails.lastName }}</div>
+              </div>
+              <div
+                class="row mb-3"
+                *ngIf="loginUserDetails && loginUserDetails.phoneNumber"
+              >
+                <div class="col-sm-4 font-weight-bold">Phone Number:</div>
+                <div class="col-sm-8">{{ loginUserDetails.phoneNumber }}</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
