@@ -12,8 +12,8 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace Mission.Entities.Migrations
 {
     [DbContext(typeof(MissionDbContext))]
-    [Migration("20250708154056_AddUserTableFix")]
-    partial class AddUserTableFix
+    [Migration("20250710061707_Init")]
+    partial class Init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
